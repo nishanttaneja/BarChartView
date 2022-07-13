@@ -1,3 +1,3 @@
 # BarChartView
 
-A description of this package.
+BarChartView is a custom view which allow developers to display data as bar charts.
